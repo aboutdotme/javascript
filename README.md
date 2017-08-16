@@ -1,4 +1,8 @@
-# About.me JavaScript Style Guide() {
+# NOTE: THIS DOCUMENT IS NO LONGER USED
+# ALL STYLE ISSUES ARE MANAGED USING ESLINT
+
+
+## About.me JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
